@@ -1,0 +1,5 @@
+com\sportardar\task\model\IGame.class
+com\sportardar\task\service\ScoreBoardServiceImpl.class
+com\sportardar\task\model\GameImpl.class
+com\sportardar\task\service\IScoreBoardService.class
+com\sportardar\task\util\GameValidator.class
